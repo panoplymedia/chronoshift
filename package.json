@@ -32,7 +32,7 @@
     }
   },
   "dependencies": {
-    "immutable-class": "0.6.x",
+    "immutable-class": "0.6.18",
     "walltime-repack": "0.2.4"
   },
   "devDependencies": {
