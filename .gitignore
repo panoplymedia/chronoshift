@@ -3,7 +3,6 @@
 .idea/tasks.xml
 .npm-debug.log
 node_modules/
-build/
 package/
 test/*.js
 checksc
